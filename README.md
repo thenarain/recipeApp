@@ -1,4 +1,4 @@
-![This is an image](./public/recipe.png)
+![This is an image](/src/recipe.js)
 
 # Getting Started with Create React App
 
