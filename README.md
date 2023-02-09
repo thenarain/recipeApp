@@ -1,4 +1,4 @@
-![Alt text](/public/recipe.png)
+![This is an image](/public/recipe.png)
 
 # Getting Started with Create React App
 
