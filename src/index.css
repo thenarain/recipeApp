@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  min-height: 100vh;
+  padding: 0 20px 40px 20px;
+  /* background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%); */
+}
+
+.search-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 50%;
+  border: 1px solid black;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.search-button {
+  background-color: rgb(9, 113, 241);
+  border: none;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.recipes {
+  display: flex;
+  border: 1px solid gray;
+}
+
+.flex {
+  display: flex;
+}
+
+.font-m {
+  font-size: 18px;
+}
+
+.m-l-20 {
+  margin-left: 20px;
+}
+
+.user-container {
+  position: fixed;
+  top: 10;
+  right: 0;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
