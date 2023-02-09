@@ -1,4 +1,4 @@
-![Alt text](http://full/path/to/img.jpg "Optional title")
+![Alt text](/public/recipe.png)
 
 # Getting Started with Create React App
 
